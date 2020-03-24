@@ -38,6 +38,11 @@
     
     .container{
     padding-left: 2%;
+    display: inline;
+    }
+    
+    .container-two{
+    padding-left: 2%;
     display: inline-block;
     }
     
